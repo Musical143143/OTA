@@ -1,9 +1,4 @@
- Highlights & Device Specific Changes:
- Build type: Monthly
- Device: Xiaomi Mi A3
- Device maintainer: RAYAN
-  
- ====04 August , 2022=====
+====04 August , 2022=====
 
 # Added miui camera 
 # Added Dolby Atmos Added updated pixel mod launchr Enable force 

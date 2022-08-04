@@ -13,7 +13,7 @@
 			"version": 3.9.5,
 			"buildtype": "Active Development Releases",
 			"forum": "https://t.me/cherishOS",
-                        "gapps": "",
+			"gapps": "",
 			"firmware": "https://xiaomifirmwareupdater.com/firmware/laurel_sprout/",
 			"modem": "",
 			"bootloader": "",
